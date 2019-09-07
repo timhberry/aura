@@ -1,56 +1,38 @@
 [
     {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"Fahad Ayaz",
+        "designation":"Android Engineer",
         "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "linkedin":"https://www.linkedin.com/in/fahad-ayaz-22791bb6/",
+        "github":"",
+        "profileImage":"fahad.jpeg",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "name":"Tarran Benson-West",
+        "designation":"Technology Manager",
+        "twitter":"https://twitter.com/TrashInTrashOut",
+        "linkedin":"https://www.linkedin.com/in/tarranbensonwest/",
+        "github":"",
+        "profileImage":"tarran.jpeg",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "name":"Tim Berry",
+        "designation":"Technical Instructor",
+        "twitter":"https://twitter.com/timhberry",
+        "linkedin":"https://www.linkedin.com/in/timhberry",
+        "github":"https://github.com/timhberry",
+        "profileImage":"tim.jpeg",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "name":"Andre Bremer",
+        "designation":"Systems Administrator",
+        "twitter":"https://twitter.com/unauthed",
+        "linkedin":"https://www.linkedin.com/in/unauthed/",
+        "github":"",
+        "profileImage":"andre.jpeg",
         "website":""
     }
 ]

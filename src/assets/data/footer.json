@@ -1,7 +1,7 @@
 {
     "AboutSession":[
         {
-            "LinkName":"GDG Jalandhar",
+            "LinkName":"GDG Bristol",
             "Link":"/"
         },
         {
@@ -9,22 +9,18 @@
             "Link":"https://developers.google.com/programs/community/gdg/"
         },
         {
-            "LinkName":"WomenTechamkers",
-            "Link":"https://www.womentechmakers.com/"
-        },
-        {
             "LinkName":"Become a Member",
-            "Link":"https://www.meetup.com/GDG-Jalandhar/"
+            "Link":"https://www.meetup.com/GDG-Bristol/"
         }
     ],
     "ChapterResourcesSession":[
         {
             "LinkName" : "Become a Sponsor",
-            "Link" : "mailto:gdgjalandhar@gmail.com"
+            "Link" : "mailto:hello@gdgbristol.org"
         },
         {
-            "LinkName" : "Call for Speaker",
-            "Link" : "mailto:gdgjalandhar@gmail.com"
+            "LinkName" : "Submit a Talk",
+            "Link" : "mailto:hello@gdgbristol.org"
         },
         {
             "LinkName" : "Media Kit",
@@ -55,7 +51,7 @@
             "Link" : "https://docs.google.com/document/d/1Wz_w6Z7usMnXKFMpOY4IPbA35twK7Uc4CAxScGDiwOk/edit"
         },
         {
-            "LinkName" : "Terms & Servies",
+            "LinkName" : "Terms & Services",
             "Link" : "https://docs.google.com/document/d/14g3fv9NItiB8Hd-YGYyVYd2N4LRxe6Bx3syWse_wsiA/edit?usp=sharing"
         }
     ]

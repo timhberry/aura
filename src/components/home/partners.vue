@@ -3,12 +3,12 @@
         <v-layout wrap align-center justify-center row fill-height>
             <v-flex xs12 md12>
                 <p class="google-font mt-2 mb-0" style="font-size:170%;color:#37474F;" >Partners</p>
-                <p class="google-font mt-1 mb-0" style="font-size:120%">A very big thank you to all our partners for their continued partnership.</p>
+                <p class="google-font mt-1 mb-0" style="font-size:120%">A very big thank you to our partners and sponsors for their continued support.</p>
                 <p class="google-font mt-0" style="font-size:120%">If you’re interested in being showcased throughout <b>{{chapterDetails.ChapterName}}</b>, contact <a style="color:#1565C0;text-decoration: none;" :href="`mailto:${chapterDetails.ChapterEmail}`">{{chapterDetails.ChapterEmail}}</a> to discuss sponsorship opportunities.</p>
             </v-flex>
 
             <v-flex xs12 md12 class="mt-2">
-                <p class="google-font my-2" style="font-size:110%">General Partners</p>
+                <p class="google-font my-2" style="font-size:110%">Partners & Sponsors</p>
                 
 
                 <v-layout row wrap class="transparent">
@@ -64,7 +64,7 @@
             </v-flex>
 
             <v-flex xs12 md12 class="mt-3">
-                <p class="google-font my-2" style="font-size:110%">Template Partner</p>
+                <p class="google-font my-2" style="font-size:110%">Website Development & Theme by</p>
 
                 <v-layout class="transparent" >
                     <v-flex xs12 sm11 class="elevation-0 transparent">

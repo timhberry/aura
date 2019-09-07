@@ -7,7 +7,7 @@
 
     <v-layout wrap align-center justify-center row fill-height class="my-3">
       <v-flex xs12 md9 lg9 class="pa-2 text-xs-center">
-        <p class="google-font" style="font-size:170%">Our Events & Meetups</p>
+        <p class="google-font" style="font-size:170%">Recent Events & Meetups</p>
         <p
           class="google-font"
           style="font-size:120%"
@@ -18,7 +18,7 @@
           color="#4C4A78"
           class="ma-0 google-font"
           style="border-radius:5px;text-transform: capitalize;text-decoration:none;color:#4C4A78"
-        >See More</router-link>
+        >See Upcoming Meetups</router-link>
       </v-flex>
     </v-layout>
 
