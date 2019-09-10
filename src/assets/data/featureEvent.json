@@ -2,16 +2,16 @@
     "FeatureEventName":"DevFest 2019",
     "EventImage":"devfest.png",
     "EventDate":{
-        "Date":"9",
+        "Date":"2",
         "Month":"11",
         "Year":"2019"
     },
     "EventTime":{
-        "StartTime":"10:30 AM",
+        "StartTime":"10:00 AM",
         "EndTime":"04:00 PM"
     },
-    "EventVenue":"Venue TBD",
-    "EventVenueMapLink":"",
+    "EventVenue":"ForgeRock, Broad Quay House, Bristol, BS1 4DJ",
+    "EventVenueMapLink":"https://goo.gl/maps/beANKdiRTzmz3qez7",
     "EventWebsite":"",
     "EventDescription":"We are hard at work planning our first ever DevFest. Watch this space!",
     "MeetupLink":"https://www.meetup.com/GDG-Bristol/events/263672870/",
