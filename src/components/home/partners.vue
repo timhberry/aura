@@ -64,7 +64,7 @@
             </v-flex>
 
             <v-flex xs12 md12 class="mt-3">
-                <p class="google-font my-2" style="font-size:110%">Website Development & Theme by</p>
+                <p class="google-font my-2" style="font-size:110%">Website Theme by</p>
 
                 <v-layout class="transparent" >
                     <v-flex xs12 sm11 class="elevation-0 transparent">
