@@ -1,21 +1,21 @@
 {
-    "FeatureEventName":"DevFest 2019",
-    "EventImage":"devfest.png",
+    "EventName":"Lying To Your Boss's Slack Bot & It's Always (Hybrid Cloud) DNS",
+    "EventImage":"dns.png",
     "EventDate":{
-        "Date":"2",
-        "Month":"11",
-        "Year":"2019"
+        "Date":"20",
+        "Month":"2",
+        "Year":"2020"
     },
     "EventTime":{
-        "StartTime":"09:00 AM",
-        "EndTime":"05:00 PM"
+        "StartTime":"7PM",
+        "EndTime":"9PM"
     },
-    "EventVenue":"ForgeRock, Broad Quay House, Bristol, BS1 4DJ",
-    "EventVenueMapLink":"https://goo.gl/maps/beANKdiRTzmz3qez7",
+    "EventVenue":"Just Eat, 2nd Floor Broad Quay House, Price Street, Bristol, BS1 4DJ",
+    "EventVenueMapLink":"https://goo.gl/maps/uiL89z85nyMbrmpWA",
     "EventWebsite":"",
-    "EventDescription":"DevFest Bristol 2019 is our first annual Google-sponsored 100% community organised full-day developer conference featuring awesome speakers and a chance to meet like-minded people in a fantastic setting. You won't want to miss this!",
+    "EventDescription":"GDG Bristol is excited to bring you 2 new awesome talks from our community members! In 'Automating Toil by Lying to Your Boss’s Slack Bot', James Laverack (Jetstack) teaches us how to built our own Slack bot to automate posting of my pre-written updates to Slack stand-ups every day. And in 'It's Always (Hybrid Cloud) DNS', Stu Watts (ForgeRock) shows us how in a large hybrid cloud organisation, DNS is just as important as your networking, with a cross-vendor demo!",
     "MeetupLink":"",
-    "RegistrationLink":"https://devfest2019.gdgbristol.org/",
+    "RegistrationLink":"https://www.meetup.com/GDG-Bristol/events/268062618/",
     "FBEventPageURL":""
 }
 

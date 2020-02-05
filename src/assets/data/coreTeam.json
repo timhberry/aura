@@ -2,7 +2,7 @@
     {
         "name":"Fahad Ayaz",
         "designation":"Android Engineer",
-        "twitter":"https://twitter.com/vrijrajsingh",
+        "twitter":"https://twitter.com/fahadayaz",
         "linkedin":"https://www.linkedin.com/in/fahad-ayaz-22791bb6/",
         "github":"",
         "profileImage":"fahad.jpeg",
@@ -19,12 +19,12 @@
     },
     {
         "name":"Tim Berry",
-        "designation":"Technical Instructor",
+        "designation":"Training Architect",
         "twitter":"https://twitter.com/timhberry",
         "linkedin":"https://www.linkedin.com/in/timhberry",
         "github":"https://github.com/timhberry",
         "profileImage":"tim.jpeg",
-        "website":""
+        "website":"https://timberry.dev/"
     },
     {
         "name":"Andre Bremer",
@@ -33,6 +33,15 @@
         "linkedin":"https://www.linkedin.com/in/unauthed/",
         "github":"",
         "profileImage":"andre.jpeg",
+        "website":""
+    },
+    {
+        "name":"Dan Jones",
+        "designation":"Customer Reliability Engineer",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/dan-j-93555a16a/",
+        "github":"https://github.com/urbaninvader/",
+        "profileImage":"dan.jpeg",
         "website":""
     }
 ]

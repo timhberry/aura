@@ -18,6 +18,11 @@
             "name" : "Meetup",
             "link" : "https://www.meetup.com/GDG-Bristol/",
             "icon" : "fab fa-meetup"
+        },
+        {
+            "name" : "YouTube",
+            "link" : "https://www.youtube.com/channel/UCYT64erpL6aqZUfXKK3yL_Q",
+            "icon" : "fab fa-youtube"
         }
     ],
     "wtmWebsite":"https://www.womentechmakers.com/",
